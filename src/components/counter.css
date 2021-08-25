@@ -1,0 +1,20 @@
+.counter__container {
+    display: flex;
+    padding: 3rem;
+    justify-content: space-around;
+    align-items: baseline;
+    width: 500px;
+}
+
+.counter__button_container {
+    display: flex;
+    padding: 3rem;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+
+.counter__display {
+    font-style: bold;
+    font-size: 32px;
+}
