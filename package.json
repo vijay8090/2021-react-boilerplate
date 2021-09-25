@@ -13,7 +13,7 @@
     "redux": "^4.1.1",
     "redux-thunk": "^2.3.0"
   },
-  "proxy": "https://node-pkbcgl--3001.local.webcontainer.io",
+  "proxy": "http://localhost:3001",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
